@@ -184,7 +184,7 @@ h6 {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("img2/portfolio_background_dark.png");
+  background-image: url("../img/portfolio_background_dark.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -406,6 +406,7 @@ header.masthead .intro-text .intro-heading {
 .footer {
   padding: 25px 0;
   text-align: center;
+  background-color: #212529;
 }
 
 .footer span.copyright {
