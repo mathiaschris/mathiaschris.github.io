@@ -106,7 +106,7 @@ h6 {
 }
 
 #mainNav {
-  background-color: #4C4C4C;
+  background-color: #212529;
 }
 
 #mainNav .navbar-toggler {
@@ -152,7 +152,7 @@ h6 {
     -webkit-transition: padding-top 0.3s, padding-bottom 0.3s;
     transition: padding-top 0.3s, padding-bottom 0.3s;
     border: none;
-    background-color: transparent;
+    background-color: #2125299c;
   }
   #mainNav .navbar-brand {
     font-size: 1.75em;
@@ -209,6 +209,14 @@ header.masthead .intro-text .intro-heading {
   font-weight: 600;
   line-height: 40px;
   margin-bottom: 25px;
+}
+
+header.masthead .intro-button {
+  color: rgba(0, 128, 255, 0.5);
+}
+
+header.masthead .intro-button:hover {
+  color: rgba(0, 128, 255, 1);
 }
 
 @media (min-width: 768px) {
